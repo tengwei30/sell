@@ -19,6 +19,7 @@ module.exports = {
     // allow debugger during development
     'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
     'semi':['error','always'],    //关于分号的配置
-    'indent':0                  //关于缩进的配置       
+    'indent':0,                  //关于缩进的配置      
+    'space-before-function-paren':0
   }
 }
