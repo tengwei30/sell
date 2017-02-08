@@ -135,24 +135,26 @@
 	.header .content-wrapper .content .description{
 		margin-bottom:10px;line-height: 12px;font-size: 12px; 
 	}
-	.header .content-wrapper .content .support .icon{
+	.header .content-wrapper .content .supports .icon{
 		display: inline-block;width: 12px;height: 12px;margin-right: 4px;
 	}
-/*	.header .content-wrapper .content .support .decrease{
-		background: url(decrease_1@2x.png) no-repeat; background-size: 12px;
+
+	.header .content-wrapper .content .supports .decrease{
+		background: url(decrease_1@2x.png) no-repeat; background-size: 12px 12px;
 	}
-	.header .content-wrapper .content .support .discount{
-		background: url(discount_1@2x.png) no-repeat; background-size: 12px;
+	.header .content-wrapper .content .supports .discount{
+		background: url(discount_1@2x.png) no-repeat; background-size: 12px 12px;
 	}
-	.header .content-wrapper .content .support .gurantee{
-		background: url(gurantee_1@2x.png) no-repeat; background-size: 12px;
+	.header .content-wrapper .content .supports .gurantee{
+		background: url(guarantee_1@2x.png) no-repeat; background-size: 12px 12px;
 	}
-	.header .content-wrapper .content .support .invoice{
-		background: url(invoice_1@2x.png) no-repeat; background-size: 12px;
+	.header .content-wrapper .content .supports .invoice{
+		background: url(invoice_1@2x.png) no-repeat; background-size: 12px 12px;
 	}
-	.header .content-wrapper .content .support .special{
-		background: url(special_1@2x.png) no-repeat; background-size: 12px;
-	}*/
+	.header .content-wrapper .content .supports .special{
+		background: url(special_1@2x.png) no-repeat; background-size: 12px 12px;
+	}
+
 	.header .content-wrapper .content .supports .text{
 		line-height: 12px;font-size: 10px;
 	}
